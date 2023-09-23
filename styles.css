@@ -1,0 +1,22 @@
+bottom{
+    margin: 100px 0 0 100px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 80px;
+    width:100px;
+    border-radius: 8px;
+    border: 2px solid black;
+    font-size: 35px;
+
+    display:flex;
+    place-content: center;
+    margin: 100px 0 0 100px;
+    border-radius: 10px;
+
+    box-shadow: 8px 20px rgba(0,0,0,0.4);
+}
+fieldset {
+	background-color: rgba(111, 66, 193, 0.3);
+ margin-top: 20px;
+}
